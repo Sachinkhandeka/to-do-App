@@ -15,3 +15,6 @@ this project is created using HTML , CSS , JavaScript to track our daily activit
  3:if-else.
  4:localStorage(on browser) of data for users.
  5:function calling.
+
+ # Created By 
+ Sachin Khandeka
